@@ -8,12 +8,12 @@ Permission system inspired by DRF
 Install the latest release:
 
 ```shell
-$ pip3 install django-graphene-permissions
+$ pip3 install django-graphene-permissions-redux
 ```
 Or using pipenv
 
 ```shell
-$ pipenv install django-graphene-permissions
+$ pipenv install django-graphene-permissions-redux
 ```
 
 ## Usage
