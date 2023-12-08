@@ -11,15 +11,15 @@ with open(os.path.join("django_graphene_permissions", "__version__.py")) as f:
     exec(f.read(), about)
 
 setuptools.setup(
-	name="django_graphene_permissions",
+	name="django_graphene_permissions_redux",
 	version=about["__version__"],
-	author="Taoufik Abbassid",
-	author_email="abacidtaoufik@gmail.com",
+	author="Max Ettelson",
+	author_email="mdettelson@gmail.com",
 	description="DRF like permission system for django graphene",
 	license='BSD',
 	long_description=long_description,
 	long_description_content_type="text/markdown",
-	url="https://github.com/taoufik07/django-graphene-permissions",
+	url="https://github.com/mdettelson/django-graphene-permissions-redux",
 	packages=setuptools.find_packages(),
 	classifiers=[
 		"License :: OSI Approved :: BSD License",
