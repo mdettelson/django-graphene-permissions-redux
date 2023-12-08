@@ -1,4 +1,4 @@
-# DGP - Django graphene permissions
+# DGP - Django graphene permissions REDUX (Updated to support Django 4.x)
 
 Permission system inspired by DRF
 
