@@ -1,16 +1,16 @@
 [[source]]
-url = "https://pypi.org/simple"
+url = "https://pypi.org/django-graphene-permissions-redux"
 verify_ssl = true
 name = "pypi"
 
 [packages]
 graphene = "*"
 graphene-django = "*"
-django = ">=2.1.5"
+django = ">=4"
 
 [dev-packages]
 twine = "*"
 black = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.8"
